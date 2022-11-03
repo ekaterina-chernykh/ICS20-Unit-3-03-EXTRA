@@ -1,4 +1,4 @@
-# ISC20-Unit-3-03-EXTRA
+# ICS20-Unit-3-03-EXTRA
 
 [![Mr Coxall's Super Linter](https://github.com/ekaterina-chernykh/ICS20-Unit-3-03-EXTRA/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/ekaterina-chernykh/ICS20-Unit-3-03-EXTRA/actions/)
 
